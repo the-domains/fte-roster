@@ -1,7 +1,7 @@
 name: FTE Roster
 favicon: null
-layout_spectrum: 0.06576147605665028
-typography_spectrum: 0.592570478329435
+layout_spectrum: 0.41417
+typography_spectrum: 0.11183
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8715494286734611
+    - '#030303'
+    - '#000000'
+    - '#010101'
+    - '#010101'
+    - '#010101'
+  brandStrength: 0.75
   lightness: 0.9616982920560986
-  saturation: 0.42358051566407084
-  rhythmicContrast: 0.20870194304734468
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
