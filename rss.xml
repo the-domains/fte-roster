@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FTE Roster]]></title>
+        <description><![CDATA[FTE Roster]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 21:38:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[King Suave' - No Time [Unsigned Artist]]]></title>
+            <description><![CDATA[DMV artist King Suave' (@Kingsuave03) releases his first visual from his HBK EP entitled No Time Directed By: Chastity Corset Films]]></description>
+            <link>http://www.worldstarhiphop.com/videos/video.php?v=wshhxsEnaw3buE8O4226</link>
+            <guid isPermaLink="false">5e806345-5845-4521-a499-6f3b8458e05f</guid>
+            <pubDate>Tue, 10 May 2016 21:38:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
