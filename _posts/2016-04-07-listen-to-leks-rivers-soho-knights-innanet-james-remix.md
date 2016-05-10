@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -15,8 +15,8 @@ keywords:
   - collabs
   - style
 description: "by Courtney Buck, 27 October 2015 Leks Rivers calls on Maryland rapper Innanet James to remix 'Soho Knights' - a track originally found on the Project Nomad EP released back in April."
-datePublished: '2016-05-10T21:40:06.560Z'
-dateModified: '2016-05-10T21:39:54.710Z'
+datePublished: '2016-05-10T22:23:54.744Z'
+dateModified: '2016-05-10T21:45:31.604Z'
 author: []
 related: []
 app_links: []
