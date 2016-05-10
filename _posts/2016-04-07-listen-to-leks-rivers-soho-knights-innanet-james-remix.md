@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
 keywords:
   - soundcloud
   - leks
@@ -16,8 +15,8 @@ keywords:
   - collabs
   - style
 description: "by Courtney Buck, 27 October 2015 Leks Rivers calls on Maryland rapper Innanet James to remix 'Soho Knights' - a track originally found on the Project Nomad EP released back in April."
-datePublished: '2016-05-10T19:15:19.550Z'
-dateModified: '2016-04-11T04:26:28.966Z'
+datePublished: '2016-05-10T21:38:49.603Z'
+dateModified: '2016-05-10T21:38:49.338Z'
 author: []
 related: []
 app_links: []
@@ -29,6 +28,7 @@ publisher:
   domain: www.google.com
   url: 'http://www.thefourohfive.com'
   favicon: 'http://assets0.thefourohfive.com/assets/favicon-bab12b69cc4670982cd92bfbf0f4da6b.ico'
+starred: true
 url: listen-to-leks-rivers-soho-knights-innanet-james-remix/index.html
 _context: 'http://schema.org'
 _type: MediaObject
