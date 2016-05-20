@@ -4,20 +4,16 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Summer's clichés are just as important as its realities. As long as we hope and believe that it's endless, breezy, and free—that each day could very well be the best one yet—then summer will continue to captivate. Maryland rapperInnanet James' \"Summer\" sounds just how we think the season should. G-funk synths (courtesy of the Kount's \"Hey\" instrumental) are blown out to beam with absolute joy. The song constantly moves while staying relaxed enough to bask in its own warmth."
-datePublished: '2016-05-15T02:29:03.804Z'
-dateModified: '2016-05-15T02:28:56.070Z'
+description: ''
+datePublished: '2016-05-20T03:11:25.460Z'
+dateModified: '2016-05-20T03:10:21.038Z'
 title: 'Innanet James "Summer" Pitchfork (Review) '
 author:
   - name: 'Matthew Strauss '
     url: Pitchfork
 sourcePath: _posts/2016-05-13-innanet-james-summer-pitchfork-review.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: innanet-james-summer-pitchfork-review/index.html
 _type: Article
