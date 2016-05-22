@@ -1,6 +1,6 @@
 name: FTE News
 favicon: null
-layout_spectrum: 0.47112
+layout_spectrum: 0.61182
 typography_spectrum: 0.09508
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#010101'
     - '#010101'
   brandStrength: 0.5625
-  lightness: 0.875
-  saturation: 0.5625
-  rhythmicContrast: 1
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
