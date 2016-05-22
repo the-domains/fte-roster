@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T04:18:14.093Z'
-dateModified: '2016-05-22T04:02:53.100Z'
-title: "FTE Delivers quality vocals for DC's own Oochie's \"Dumpman\""
+datePublished: '2016-05-22T04:23:32.256Z'
+dateModified: '2016-05-22T04:23:01.919Z'
+title: 'Oochie – Dumpman (Jumpman Freestyle) [Video]'
 author:
-  - name: ''
+  - name: CRAIG T LEE
     url: ''
+sourcePath: _posts/2016-05-22-fte-delivers-quality-vocals-for-dcs-own-oochies-dumpman.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-fte-delivers-quality-vocals-for-dcs-own-oochies-dumpman.md
 url: fte-delivers-quality-vocals-for-dcs-own-oochies-dumpman/index.html
 _type: Article
 
