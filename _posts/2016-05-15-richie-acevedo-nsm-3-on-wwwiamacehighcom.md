@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Richie Acevedo (native Milwaukee) began to buzz in his career during 2014 after a recent move to Seattle proved to be fortuitous. Starting with no help, he managed to grow his brand into a town favorite, and eventually linked up with OFMG (One Famm Music Group) to form the sound that lead to his project “SpaceShips and Paper Planes”, a brilliant follow-up to his “Basquiat” mixtape, the latter of which set him apart from his peers and contemporaries. His performance in Summer Jam 2015 boasted a festival audience of over 20,000. Career highlights include the 2016 Sosua Beach Fest (Dominican Republic), 2015 Grammys, Seattle Folk Life Festival and The West Coast Hip-Hop Awards to name a few.'
-datePublished: '2016-05-22T03:49:04.150Z'
-dateModified: '2016-05-22T03:48:46.417Z'
+datePublished: '2016-05-22T04:05:06.022Z'
+dateModified: '2016-05-22T03:49:12.806Z'
 title: 'MTV ArtistBETA "NSM3" Available on www.iamacehigh.com'
 author:
   - name: ''
