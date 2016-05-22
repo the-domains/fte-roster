@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Most of the time, becoming a fan of a new artist is a gradual process. It starts off as intrigue, requires extended exposure, and eventually morphs into a more personal attachment. Typically, it begins with a spark. Every now and then, though, an artist appears like a blinding flash of light.'
-datePublished: '2016-05-15T02:46:23.183Z'
-dateModified: '2016-05-15T02:45:03.931Z'
+datePublished: '2016-05-22T04:04:57.339Z'
+dateModified: '2016-05-15T02:46:29.672Z'
 title: 'PREMIERE: INNANET JAMES – “BLACK”'
 author:
   - name: Jacob Moore
