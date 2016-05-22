@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Summer's clichés are just as important as its realities. As long as we hope and believe that it's endless, breezy, and free—that each day could very well be the best one yet—then summer will continue to captivate. Maryland rapper Innanet James' \"Summer\" sounds just how we think the season should. G-funk synths (courtesy of the Kount's \"Hey\" instrumental) are blown out to beam with absolute joy. The song constantly moves while staying relaxed enough to bask in its own warmth."
-datePublished: '2016-05-22T03:50:09.168Z'
-dateModified: '2016-05-22T03:44:44.734Z'
-title: ''
+datePublished: '2016-05-22T04:05:16.201Z'
+dateModified: '2016-05-22T03:50:18.100Z'
+title: Innanet James “Summer” (Review)
 author:
   - name: ''
     url: ''
