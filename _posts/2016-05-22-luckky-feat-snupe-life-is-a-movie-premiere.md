@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=wcvxiCxTC3g'
 inLanguage: null
 keywords: []
 description: 'Luckky and Snupe in a small adventure to show how their life "Is A Movie!" Twitters : @_luckky & @officialsnupe_ Instagrams : @__Luckky & @officialsnupe91'
-datePublished: '2016-05-22T18:00:57.500Z'
-dateModified: '2016-05-22T04:39:38.129Z'
+datePublished: '2016-05-23T00:04:04.031Z'
+dateModified: '2016-05-22T18:01:07.125Z'
 title: 'Luckky Feat. Snupe - Life Is A Movie (Premiere) '
 author:
   - name: Versus Visualz x DukeGmore Productions
