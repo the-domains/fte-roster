@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'DMV artist Aquil releasing a quick EP for his loyal fans. The mixtape is a mixture of calm collective songs to chill to & also songs you can get hype to. Aquil shows his diversity in his art on this EP & prepares his fans for his project releasing in April.'
-datePublished: '2016-05-22T18:00:50.082Z'
-dateModified: '2016-05-22T04:35:44.362Z'
+datePublished: '2016-05-23T00:03:57.779Z'
+dateModified: '2016-05-22T18:00:59.157Z'
 title: 'Aquil - No Valentines EP (Review) '
 author:
   - name: 'PATisDOPE '
