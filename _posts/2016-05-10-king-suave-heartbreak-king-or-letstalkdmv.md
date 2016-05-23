@@ -16,8 +16,8 @@ keywords:
   - artist
   - rhythm
 description: "When, Pain & Glory meet a Heart Break occurs says DMV artist King Suave' finally debuting \"Heart Break King\". Rhythm & Trap meets Seduction and Sexcapades in what he calls the sound of the Waves. The \"Comeback Kid\" artist is debuting Heartbreak King which he calls the \"side nigga\" day on February 15."
-datePublished: '2016-05-22T04:26:55.890Z'
-dateModified: '2016-05-22T04:26:53.122Z'
+datePublished: '2016-05-23T00:01:45.255Z'
+dateModified: '2016-05-23T00:01:45.072Z'
 author:
   - name: ''
     url: ''
