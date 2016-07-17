@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://spinrilla.com'
-  name: Spinrilla
-  favicon: 'https://s3.amazonaws.com/s3.spinrilla.com/assets/favicon.ico'
-  domain: spinrilla.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://spinrilla.com/mixtapes/mikey-polo-lg-g-o-a-t-greatest-of-all-time'
+inLanguage: en
 keywords:
   - mixtape
   - spinrilla
@@ -21,7 +19,12 @@ description: >-
   Brand new mixtape from Mikey Polo,representing Va to DC with "G.O.A.T."
   (Greatest Of All Time) hosted by Dj Infamous and Dj Zell. Follow him on
   Twitter : @mikeypololg Instagram : @Officialmikeypolo
-inLanguage: en
+datePublished: '2016-07-17T20:17:44.739Z'
+dateModified: '2016-07-17T20:17:44.546Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links:
   - namespace: twitter
     type: ipad
@@ -37,15 +40,15 @@ app_links:
     type: googleplay
     name: Spinrilla
     id: com.madebyappolis.spinrilla
-isBasedOnUrl: 'https://spinrilla.com/mixtapes/mikey-polo-lg-g-o-a-t-greatest-of-all-time'
 title: G.O.A.T. (Greatest Of All Time) by Mikey Polo
-datePublished: '2016-07-11T03:32:51.252Z'
-dateModified: '2016-07-11T03:31:11.304Z'
-starred: false
 sourcePath: _posts/2016-07-11-goat-greatest-of-all-time-by-mikey-polo.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Spinrilla
+  domain: spinrilla.com
+  url: 'https://spinrilla.com'
+  favicon: 'https://s3.amazonaws.com/s3.spinrilla.com/assets/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
