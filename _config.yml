@@ -1,19 +1,4 @@
-name: FTE News
-favicon: null
-layout_spectrum: 0.64908
 typography_spectrum: 0.09172
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#030303'
@@ -25,4 +10,21 @@ color:
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.64908
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/37107554-8d75-4126-afaf-57eec50197d7.png
+name: FTE News
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
